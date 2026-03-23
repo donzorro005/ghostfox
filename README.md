@@ -1,12 +1,12 @@
-# Nikola Tesla Portfolio
-Nikola Tesla Portfolio is an Astro template built with of course Astro 5.7, React 19 and TailwindCSS 4
+# GhostFox Portfolio
+GhostFox Portfolio is an Astro template built with of course Astro 5.7, React 19 and TailwindCSS 4
 
-![Nikola Tesla Astro Portfolio](/public/social-image.jpg "Nikola Tesla Portfolio")
+![GhostFox Astro Portfolio](/public/social-image.jpg "GhostFox Portfolio")
 
 ## Getting Started
 Clone Repository
 ```sh
-git clone https://github.com/iann-mathaiya/nikola-tesla.git
+git clone https://github.com/iann-mathaiya/GhostFox.git
 ```
 
 Install Dependencies
@@ -36,7 +36,7 @@ Inside of your Astro project, you'll see the following folders and files:
 ```text
 /
 ├── public/
-│   └── favicon.svg
+│   └── fox_9308916.png
 │   └── social-image.svg
 ├── src/
 │   ├── actions/
